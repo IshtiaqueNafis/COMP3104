@@ -1,4 +1,4 @@
-  `
+
   language: generic
   node_js:
     - "stable"
@@ -9,4 +9,4 @@
     local_dir: build
     on:
     branch: main
-    `
+
